@@ -48,7 +48,7 @@ export default function Hotels ()
       <div className="mt-8 space-y-4 rounded">
 
         {
-          [1, 1].map((item, index) => (
+          [1, 1, 1].map((item, index) => (
             <div key={index} className="flex w-full h-auto relative pr-12 min-h-[265px] mt-8 bg-white rounded">
 
               <div className="h-full w-[332px] centered p-3">
