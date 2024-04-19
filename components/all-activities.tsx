@@ -103,7 +103,8 @@ export default function Activities ()
                       </div>
 
                       <p className="font-medium text-[#1D2433]">
-                      10:30 AM on Mar 19
+                      10:30 AM{" "}on{" "}Mar 19
+
                       </p>
 
                     </div>
