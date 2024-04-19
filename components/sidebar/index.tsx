@@ -45,11 +45,11 @@ export default function Sidebar ()
         <nav className="w-full space-y-1 ">
           {
             side_list.map((item, index) => (
-              <div key={index} className="flex items-center justify-start gap-4 p-3 px-5 rounded text-input-foreground hover:bg-input fill-input-foreground hover:fill-text hover:text-text">
+              <div key={index} className="flex items-center justify-start gap-4 p-3 px-5 font-medium rounded text-input-foreground hover:bg-input fill-input-foreground hover:fill-text hover:text-text">
                 <div>
                   <item.icon className="fill-inherit"/>
                 </div>
-                <p className="text-sm capitalize nav_label ">{item.label}</p>
+                <p className="text-sm capitalize nav_label">{item.label}</p>
               </div>
             ))
           }
