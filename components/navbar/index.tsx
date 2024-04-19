@@ -70,7 +70,7 @@ export default function Navbar ()
 
         <nav className="flex items-center gap-4">
           <Button>
-                  subscribe
+                  Subscribe
           </Button>
           {
             nav_list_two.map((item, index) => (
