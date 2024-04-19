@@ -67,7 +67,7 @@ export default function Hotels ()
                       Riviera Resort, Lekki
                       </h1>
 
-                      <p className="font-medium text-text w-[80%]" >
+                      <p className="font-medium text-text w-[75%]" >
                       18, Kenneth Agbakuru Street, Off Access Bank Admiralty Way, Lekki Phase1
                       </p>
 
