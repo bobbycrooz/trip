@@ -131,7 +131,7 @@ export default function Flights ()
                   </div>
                 </div>
 
-                <div className="flex items-center justify-between w-full p-6 flight_details border-border">
+                <div className="flex items-center justify-between w-full p-6 capitalize flight_details border-border">
 
                   <div className="flex items-center gap-8">
                     <p className="font-medium text-primary">
