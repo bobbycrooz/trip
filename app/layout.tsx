@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { ThemeProvider } from "@/components/ui/theme_provider";
 import "@/styles/globals.scss";
 
-
 export const metadata: Metadata = {
   title: "Trip ui",
   description: "built by bob @bobstudio.",

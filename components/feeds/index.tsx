@@ -10,7 +10,6 @@ import Hotels from "@/components/all-hotels";
 import Flights from "@/components/all-flights";
 import Activities from "@/components/all-activities";
 
-
 export default function Feeds ()
 {
   return (

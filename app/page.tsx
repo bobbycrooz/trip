@@ -2,7 +2,7 @@ import Feeds from "@/components/feeds";
 import Navbar from "@/components/navbar";
 import Sidebar from "@/components/sidebar";
 
-export default function Home()
+export default function Home ()
 {
   return (
     <div className="w-screen h-screen bg-muted">
