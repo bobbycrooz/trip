@@ -164,7 +164,7 @@ export default function Activities ()
 
               </div>
               {/* ---- */}
-              <div className="w-12 h-full absolute right-0  bg-[#FBEAE9] centered">
+              <div className="w-12 h-full absolute right-0  bg-[#FBEAE9] centered rounded-r">
                 <Icons.close/>
 
               </div>
