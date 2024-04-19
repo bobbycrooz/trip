@@ -55,7 +55,7 @@ export default function Flights ()
 
         {
           [1, 1].map((item, index) => (
-            <div key={index} className="flex w-full h-auto  min-h-[265px] pr-12 mt-8 bg-white rounded">
+            <div key={index} className="flex w-full h-auto  min-h-[265px] relative pr-12 mt-8 bg-white rounded">
               <div className="w-full bg-white main">
 
                 <div className="w-full p-6 border-b flight_details border-border">
